@@ -17,7 +17,7 @@
 | ------------- | ------------- |
 |     Git       | Intermediate  |
 |    Gitlab     |     Basic     |
-|    GitHub     |     Basic     |
+|    Github     |     Basic     |
 
 ## Database Management Systems that I know
 | DBMS     |     Level     |
