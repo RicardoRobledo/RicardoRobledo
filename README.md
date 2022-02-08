@@ -15,7 +15,7 @@
 ## Version controller that I know
 | Version controller     |     Level     |
 | ------------- | ------------- |
-|     Git       | Intermediate  |
+|     Git       |     Basic     |
 |    Gitlab     |     Basic     |
 |    Github     |     Basic     |
 
