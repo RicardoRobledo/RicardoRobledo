@@ -1,7 +1,7 @@
 # 👋 Hi, I’m RicardoRobledo and this is a little about me :smile:
 
 ### I’m interested in
-:book: Learning about backend aplications(testing, apis, databases, etc.)
+:book: Learning about backend aplications(testing, apis, databases, servers, etc.)
 
 ### I’m currently learning
 :snake: Python with Django for backend
