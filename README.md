@@ -11,7 +11,7 @@
 
     Learning about backend development(testing, apis, databases, servers, etc.)
 
-<image src="https://res.cloudinary.com/practicaldev/image/fetch/s--ctBA295_--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7j1b893tt6veqjvyr2ye.png" width="190px" height="100px"><image src="https://i0.wp.com/hipertextual.com/wp-content/uploads/2013/08/Debian-Logo-splash-Historia-de-Debian.jpg?fit=1024%2C768&ssl=1" width="190px" height="100px"><image src="https://webapp.io/blog/content/images/2019/11/postgres.png" width="190px" height="100px"><image src="https://professor-falken.com/wp-content/uploads/2017/06/Como-ver-las-consultas-que-se-estan-ejecutando-en-MySQL-professor-falken.com_.jpg" width="190px" height="100px">
+<image src="https://res.cloudinary.com/practicaldev/image/fetch/s--ctBA295_--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7j1b893tt6veqjvyr2ye.png" width="190px" height="100px"><image src="https://i0.wp.com/hipertextual.com/wp-content/uploads/2013/08/Debian-Logo-splash-Historia-de-Debian.jpg?fit=1024%2C768&ssl=1" width="190px" height="100px"><image src="https://webapp.io/blog/content/images/2019/11/postgres.png" width="190px" height="100px">
 
   
 <br>
