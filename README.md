@@ -9,9 +9,10 @@
 
 <h3>I’m interested in:</h3>
 
-    Learning about backend development(testing, apis, databases, servers, etc.)
+    Learning about backend development(apis, databases, servers, etc.)
 
-<image src="https://res.cloudinary.com/practicaldev/image/fetch/s--ctBA295_--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7j1b893tt6veqjvyr2ye.png" width="190px" height="100px"><image src="https://i0.wp.com/hipertextual.com/wp-content/uploads/2013/08/Debian-Logo-splash-Historia-de-Debian.jpg?fit=1024%2C768&ssl=1" width="190px" height="100px"><image src="https://webapp.io/blog/content/images/2019/11/postgres.png" width="190px" height="100px">
+<image src="https://www.datocms-assets.com/14946/1627286560-sql-databases.png?auto=format" width="190px" height="100px"><image src="https://www.azulschool.net/wp-content/uploads/2020/05/Backend-Developer-1024x768.png" width="190px" height="100px"><image src="https://webkul.com/wp-content/uploads/2021/06/api-development.png" width="190px" height="100px">
+    
 
   
 <br>
@@ -19,9 +20,9 @@
 
 <h3>I’m currently learning</h3>
 
-    Python with Django and Java with Spring for backend
+    Python with Django, Nginx, Linux and PostgreSQL
 
-<image src="https://wallpaperaccess.com/full/796849.jpg" width="190px" height="100px"><image src="https://swapps.com/wp-content/uploads/2016/02/simply-django-announcements.jpg" width="190px" height="100px"><image src="https://blog.codmind.com/content/images/2021/01/banner-12.jpg" width="190px" height="100px"><image src="https://encriss.com/encriss/wp-content/uploads/2019/05/springBoot_featured_image.png" width="190px" height="100px">
+<image src="https://justcodeit.io/wp-content/uploads/2014/04/Python-y-django.jpg" width="190px" height="100px"><image src="https://extassisnetwork.com/tutoriales/wp-content/uploads/Comandos-de-Nginx-que-usted-debe-saber.jpg" width="190px" height="100px"><image src="https://i0.wp.com/hipertextual.com/wp-content/uploads/2013/08/Debian-Logo-splash-Historia-de-Debian.jpg?fit=1024%2C768&ssl=1" width="190px" height="100px"><image src="https://webapp.io/blog/content/images/2019/11/postgres.png" width="190px" height="100px">
 
 <br>
 
