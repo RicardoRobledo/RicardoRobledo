@@ -28,17 +28,33 @@
 
 <br>
 
+## My status
 
-## Hobbies
-<li>Play the guitar</li>
-<li>Watch anime series</li>
+| <img src="https://github-readme-stats.vercel.app/api?username=RicardoRobledo&show_icons=true&theme=radical"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoRobledo&show_icons=true&theme=radical&layout=compact"> |
+| ------------- | ------------- |
 
 
 <br>
+    
+    
+## Hobbies
+🎮 Play videogames
 
+🎸 Play the guitar
+
+📺 Watch anime series
+    
+
+<br>
+    
 
 ## You can follow me on my twitter
 [@ZackJump79](https://twitter.com/Zackjump79)
+
+    
+<p align="center">
+    <image align="center" width="320px" height="300px" src="https://64.media.tumblr.com/029fbf1932ff45003177f6e77674ee2f/tumblr_mvp91gRaie1qbaj5no1_500.gifv">
+</p>
 
 <!---
 RicardoRobledo/RicardoRobledo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
