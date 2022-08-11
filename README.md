@@ -22,9 +22,9 @@
 
 <h3>I’m currently learning</h3>
 
-    Python with Django, Rest Framework and MongoDB
+    Python with Django and Rest Framework
 
-<image padding-left="400px" src="https://justcodeit.io/wp-content/uploads/2014/04/Python-y-django.jpg" width="190px" height="100px"><image src="https://res.cloudinary.com/practicaldev/image/fetch/s--ctBA295_--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7j1b893tt6veqjvyr2ye.png" width="190px" height="100px"><image src="https://webimages.mongodb.com/_com_assets/cms/kuzt9r42or1fxvlq2-Meta_Generic.png" width="190px" height="100px">
+<image padding-left="400px" src="https://justcodeit.io/wp-content/uploads/2014/04/Python-y-django.jpg" width="190px" height="100px"><image src="https://res.cloudinary.com/practicaldev/image/fetch/s--ctBA295_--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7j1b893tt6veqjvyr2ye.png" width="190px" height="100px">
 
 
 <br>
