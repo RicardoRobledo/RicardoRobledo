@@ -11,9 +11,9 @@
 
 <h3>I’m interested in:</h3>
 
-    Learning about backend development(apis, databases, servers, etc.)
+    Learning about backend development(apis, servers and task automation mainly)
 
-<image src="https://www.datocms-assets.com/14946/1627286560-sql-databases.png?auto=format" width="190px" height="100px"><image src="https://webkul.com/wp-content/uploads/2021/06/api-development.png" width="190px" height="100px">
+<image src="https://webkul.com/wp-content/uploads/2021/06/api-development.png" width="190px" height="100px"><image src="https://www.tecnozero.com/wp-content/uploads/2020/02/proteccion-servidor.png" width="190px" height="100px">
     
 
   
@@ -22,9 +22,9 @@
 
 <h3>I’m currently learning</h3>
 
-    Python with Django and Rest Framework
+    Python with Django, Django Rest Framework and Ubuntu Server
 
-<image padding-left="400px" src="https://justcodeit.io/wp-content/uploads/2014/04/Python-y-django.jpg" width="190px" height="100px"><image src="https://res.cloudinary.com/practicaldev/image/fetch/s--ctBA295_--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7j1b893tt6veqjvyr2ye.png" width="190px" height="100px">
+<image padding-left="400px" src="https://justcodeit.io/wp-content/uploads/2014/04/Python-y-django.jpg" width="190px" height="100px"><image src="https://res.cloudinary.com/practicaldev/image/fetch/s--ctBA295_--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7j1b893tt6veqjvyr2ye.png" width="190px" height="100px"><image src="https://www.profesionalreview.com/wp-content/uploads/2016/06/ubuntu-logo-1280x720.jpg" width="190px" height="100px">
 
 
 <br>
