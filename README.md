@@ -1,46 +1,39 @@
-# 👋 Hi, I’m RicardoRobledo and this is a little about me :smile:
-
+<h1 align="center">
+    👋 Hi, I’m RicardoRobledo :smile:
+</h1>
+    
 
 <img src="https://komarev.com/ghpvc/?username=RicardoRobledo&label=Profile%20views&color=0e75b6&style=flat" alt="RicardoRobledo" />
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RicardoRobledo&theme=discord&column=-1" alt="RicardoRobledo" /></a><p>
 
+<p align="center">
+<image src="https://skillicons.dev/icons?i=python,django,fastapi,mysql,postgresql,linux,git,github,html,css,bootstrap,java,vscode&perline=16&theme=light" width="570px" height="40px"><image src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" width="40px" height="40px"><image src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="40px" height="40px"><image src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" width="40px" height="40px">
+</p>
+    
 
 ## My status
 
-| <img src="https://github-readme-stats.vercel.app/api?username=RicardoRobledo&show_icons=true&theme=radical"> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RicardoRobledo&show_icons=true&theme=radical" alt="RicardoRobledo" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=RicardoRobledo&show_icons=true&theme=radical" width="450"> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RicardoRobledo&show_icons=true&theme=radical" alt="RicardoRobledo" width="450"/> |
 | ------------- | ------------- |
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoRobledo&show_icons=true&theme=radical&layout=compact"></p>
 
 
-<h3>I’m interested in:</h3>
-
-    Learning about backend development(apis, servers and task automation mainly)
-
-<image src="https://webkul.com/wp-content/uploads/2021/06/api-development.png" width="190px" height="100px"><image src="https://www.tecnozero.com/wp-content/uploads/2020/02/proteccion-servidor.png" width="190px" height="100px">
-
-
-<h3>I’m currently learning</h3>
-
-    Python with Django, Django Rest Framework and FastAPI
-
-<image padding-left="400px" src="https://keepcoding.io/wp-content/uploads/2014/04/Python-y-django.jpg" width="190px" height="100px"><image src="https://res.cloudinary.com/practicaldev/image/fetch/s--ctBA295_--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7j1b893tt6veqjvyr2ye.png" width="190px" height="100px"><image src="https://res.cloudinary.com/practicaldev/image/fetch/s--bQkOWdH_--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/77v87hprg9g2wuh6kofs.png" width="190px" height="100px">
-
+## About me
     
-## Hobbies
-🎮 Play videogames
+<table>
+  <tr>
+    <th>I’m interested in</th>
+    <th>I’m currently learning</th>
+    <th>Hobbies</th>
+  </tr>
+  <tr>
+    <td>Learning about backend development(apis, servers and task automation mainly)</td>
+    <td>Python with Django, Django Rest Framework and FastAPI</td>
+    <td>I love 🎮 playing videogames and 🎸 playing the guitar</td>
+  </tr>
+</table>
 
-🎸 Play the guitar
-
-📺 Watch anime series
-
-
-## You can follow me on my twitter
-[@ZackJump79](https://twitter.com/Zackjump79)
-
-    
-<p align="center">
-    <image align="center" src="https://thumbs.gfycat.com/MenacingGloomyEnglishpointer-max-1mb.gif">
-</p>
+<br>
 
 <!---
 RicardoRobledo/RicardoRobledo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
