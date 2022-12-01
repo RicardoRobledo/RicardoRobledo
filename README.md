@@ -25,11 +25,13 @@
     <th>I’m interested in</th>
     <th>I’m currently learning</th>
     <th>Hobbies</th>
+    <th>Favorite band</th>
   </tr>
   <tr>
     <td>Learning about backend development(apis, servers and task automation mainly)</td>
     <td>Python with Django, Django Rest Framework and FastAPI</td>
     <td>I love 🎮 playing videogames and 🎸 playing the guitar</td>
+    <td><image src="https://images.fineartamerica.com/images/artworkimages/medium/2/mana-band-logo-odani-sacuna-transparent.png" height="100px" width="150px"></td>
   </tr>
 </table>
 
