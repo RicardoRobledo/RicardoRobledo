@@ -7,7 +7,7 @@
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RicardoRobledo&theme=discord&column=-1" alt="RicardoRobledo" /></a><p>
 
 <p align="center">
-<image src="https://skillicons.dev/icons?i=python,django,fastapi,mysql,postgresql,mongodb,linux,git,github,html,css,bootstrap,java,vscode&perline=16&theme=light" width="570px" height="40px"><image src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" width="40px" height="40px"><image src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="40px" height="40px"><image src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" width="40px" height="40px">
+<image src="https://skillicons.dev/icons?i=python,django,fastapi,php,mysql,mongodb,linux,git,github,html,css,bootstrap,vscode&perline=16&theme=light" width="600px" height="40px"><image src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" width="40px" height="40px"><image src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="40px" height="40px"><image src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" width="40px" height="40px">
 </p>
     
 
