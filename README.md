@@ -43,9 +43,9 @@
     <th align="center">Favorite band</th>
   </tr>
   <tr>
-    <td align="center">Learning about backend development<br>(apis and servers mainly)</td>
-    <td align="center"><image src="https://skillicons.dev/icons?i=django,react&perline=16&theme=dark" width="500px" height="40px"></td>
-    <td align="center"><h1>🎮🎸</h1></td>
+    <td align="center">Learning about backend development and project management</td>
+    <td align="center">Project management through a Google's scholarship<br><br><img src="https://pbs.twimg.com/profile_images/988272404915875840/lE7ZkrO-_400x400.jpg" width="50px" height="50px"></td>
+    <td align="center"><h1>🎸</h1></td>
     <td align="center"><image src="https://images.fineartamerica.com/images/artworkimages/medium/2/mana-band-logo-odani-sacuna-transparent.png" height="100px" width="110px"></td>
   </tr>
 </table>
