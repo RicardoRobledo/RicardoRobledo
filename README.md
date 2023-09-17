@@ -5,7 +5,7 @@
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RicardoRobledo&theme=discord&column=-1" alt="RicardoRobledo" /></a><p>
 
 <p align="center">
-<image src="https://skillicons.dev/icons?i=python,django,fastapi,express,react,linux,git&perline=16&theme=dark" width="300px" height="40px"><image src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" width="40px" height="40px"><image src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="40px" height="40px"><image src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" width="40px" height="40px">
+<image src="https://skillicons.dev/icons?i=python,django,fastapi,express,react,linux,git&perline=16&theme=dark" width="300px" height="40px"><image src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" width="40px" height="40px"><image src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="40px" height="40px">
 </p>
 
 
@@ -43,8 +43,8 @@
     <th align="center">Favorite band</th>
   </tr>
   <tr>
-    <td align="center">Learning about backend development and project management</td>
-    <td align="center">Project management through a Google's scholarship<br><br><img src="https://pbs.twimg.com/profile_images/988272404915875840/lE7ZkrO-_400x400.jpg" width="50px" height="50px"></td>
+    <td align="center">Learning about cibersecurity and project management</td>
+    <td align="center">Cibersecurity through a Google's scholarship<br><br><img src="https://pbs.twimg.com/profile_images/988272404915875840/lE7ZkrO-_400x400.jpg" width="50px" height="50px"></td>
     <td align="center"><h1>🎸</h1></td>
     <td align="center"><image src="https://images.fineartamerica.com/images/artworkimages/medium/2/mana-band-logo-odani-sacuna-transparent.png" height="100px" width="110px"></td>
   </tr>
