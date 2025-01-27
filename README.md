@@ -5,7 +5,7 @@
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RicardoRobledo&theme=discord&column=-1" alt="RicardoRobledo" /></a><p>
 
 <p align="center">
-<image src="https://skillicons.dev/icons?i=python,django,fastapi,linux,docker,git&perline=16&theme=dark" width="300px" height="40px"><image src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" width="40px" height="40px"><image src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="40px" height="40px">
+<image src="https://skillicons.dev/icons?i=python,django,fastapi,tensorflow,anaconda,docker,azure&perline=16&theme=dark" width="300px" height="40px">
 </p>
 
 
