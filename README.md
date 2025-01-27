@@ -43,8 +43,8 @@
     <th align="center">Favorite band</th>
   </tr>
   <tr>
-    <td align="center">Learning about generative AI like chatbots development and automations with AI and project management</td>
-    <td align="center">Generative AI through a Google's scholarship<br><br><img src="https://pbs.twimg.com/profile_images/988272404915875840/lE7ZkrO-_400x400.jpg" width="50px" height="50px"></td>
+    <td align="center">Learning about generative AI like chatbots development and automations with AI, Computer Vision and Cibersecurity</td>
+    <td align="center">Computer Vision and how to build a transformer with attention<br><br></td>
     <td align="center"><h1>🎸</h1></td>
     <td align="center"><image src="https://i.scdn.co/image/ab67616d0000b2734dd1e647d529501a2a06e543" height="100px" width="110px"></td>
   </tr>
