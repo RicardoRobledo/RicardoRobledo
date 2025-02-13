@@ -20,19 +20,8 @@
 
     
 <br>
-    
 
-## Some of my projects
 
-| QuAi | Calling art backend | MetroidVLand |
-|---|---|---|
-| <a href="https://github.com/RicardoRobledo/SocialNetworkTest" target="_blank"> <img src="https://github.com/RicardoRobledo/SocialNetworkTest/blob/main/img.jpeg" width="320" height="150"/></a> |  <a href="https://github.com/RicardoRobledo/calling-art-backend" target="_blank"> <img src="https://github.com/RicardoRobledo/calling-art-backend/blob/main/img1.png" width="320" height="150"/></a> | <a href="https://github.com/RicardoRobledo/MetroidVLand_Bootstrap" target="_blank"> <img src="https://github.com/RicardoRobledo/MetroidVLand_Bootstrap/blob/main/1.jpg" width="320" height="150"/></a>  |
-
-    
-
-<br>
-    
-    
 ## About me
 
 <table>
