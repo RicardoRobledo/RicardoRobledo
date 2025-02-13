@@ -44,7 +44,7 @@
   </tr>
   <tr>
     <td align="center">Learning about generative AI like chatbots development and automations with AI, Computer Vision and Cibersecurity</td>
-    <td align="center">Computer Vision and how to build a transformer with attention<br><br></td>
+    <td align="center">ML, DL, Computer Vision and Generative AI<br><br></td>
     <td align="center"><h1>🎸</h1></td>
     <td align="center"><image src="https://i.scdn.co/image/ab67616d0000b2734dd1e647d529501a2a06e543" height="100px" width="110px"></td>
   </tr>
