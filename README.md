@@ -4,10 +4,15 @@
     
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RicardoRobledo&theme=discord&column=-1" alt="RicardoRobledo" /></a><p>
 
+<br>
+
 <p align="center">
-<image src="https://skillicons.dev/icons?i=python,django,fastapi,sklearn,tensorflow,anaconda,docker,azure&perline=16&theme=dark" width="500px" height="50px">
+<image src="https://skillicons.dev/icons?i=python,django,fastapi,sklearn,tensorflow,anaconda,docker,azure&perline=16&theme=dark" width="500px" height="100px">
 </p>
 
+<p align="center">
+<image src="https://www.soysoliscarlos.com/wp-content/uploads/2023/11/image-4-1018x1024.png" width="120px" height="120px">
+</p>
 
 <br>
     
