@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-<image src="https://skillicons.dev/icons?i=python,django,fastapi,sklearn,tensorflow,anaconda,docker,azure&perline=16&theme=dark" width="500px" height="100px">
+<image src="https://skillicons.dev/icons?i=python,django,fastapi,sklearn,opencv,tensorflow,anaconda,docker,azure&perline=16&theme=dark" width="600px" height="100px">
 </p>
 
 <p align="center">
