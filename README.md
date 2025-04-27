@@ -1,62 +1,116 @@
-<h1 align="center">👋 Hi, I’m <span style="color:#FF69B4">RicardoRobledo</span> 😄</h1>
+<h1 align="center">👋 Hello World! I'm <span style="color:#FF69B4">Ricardo Robledo</span> 🚀</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RicardoRobledo&color=blueviolet&style=flat-square&label=Profile+Views" alt="profile views"/>
+</p>
+
+<p align="center">
+  <a href="www.linkedin.com/in/ricardo-robledo-148a62239" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/Zackjump79" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=RicardoRobledo&theme=discord&column=-1" alt="GitHub Trophy"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=RicardoRobledo&theme=nord&column=7&margin-w=15&margin-h=15" alt="GitHub Trophy"/>
   </a>
 </p>
+
+<br>
+
+## 💫 About Me
+
+```python
+class RicardoRobledo:
+    def __init__(self):
+        self.name = "Ricardo Robledo"
+        self.role = "AI Engineer"
+        self.interests = ["Machine Learning", "Deep Learning", "Computer Vision", 
+                          "Generative AI", "Chatbots", "Automation", "Data Science"]
+        self.currently_learning = ["Calculus", "Data Science"]
+        self.hobbies = ["Coding 💻", "Reading 📚", "Learn German 🇩🇪", "Playing Guitar 🎸",  "Drawing ✍️"]
+        self.favorite_bands = "Mikel Erentxun and The Smiths"
+        
+    def say_hi(self):
+        print("Thanks for visiting my GitHub! Let's build something amazing together!")
+
+me = RicardoRobledo()
+me.say_hi()
+```
+
+<br>
+
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,sklearn,opencv,tensorflow,pytorch,anaconda,docker,azure&perline=10&theme=dark" width="600px">
 </p>
 
-<p align="center">
-  <img src="https://images.squarespace-cdn.com/content/v1/624f533702b64e5c9c78e131/1678942955789-QY2AY83IJ497E181JUDZ/AI-900+Badge.png" width="100px">
-</p>
-
----
-
-## 🔍 My Status
-
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=RicardoRobledo&show_icons=true&theme=radical" width="100%">
-</td>
-<td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RicardoRobledo&theme=radical" width="100%">
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoRobledo&layout=compact&theme=radical" width="400">
-</p>
-
----
-
-## 📘 About Me
-
 <table>
   <tr>
-    <th align="center">Interests</th>
-    <th align="center">Currently Learning</th>
-    <th align="center">Hobbies</th>
-    <th align="center">Favorite Band</th>
+    <td align="center"><b>AI & Data Science</b></td>
+    <td align="center"><b>Web Frameworks</b></td>
+    <td align="center"><b>Databases</b></td>
+    <td align="center"><b>DevOps</b></td>
   </tr>
   <tr>
-    <td align="center">ML, DL, Computer Vision, Generative AI, Chatbots, Automation and Data Science</td>
-    <td align="center">Machine Learning, Deep Learning, Computer Vision, Generative AI and Data Science</td>
-    <td align="center">🎸 Playing Guitar</td>
-    <td align="center">
-      <img src="https://i.scdn.co/image/ab67616d0000b2734dd1e647d529501a2a06e543" height="80px" width="80px">
-      <br><b>Mikel Erentxun</b>
+    <td>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Pandas-333333?style=flat-square&logo=pandas"/>
+      <img src="https://img.shields.io/badge/-Matplotlib-ff8323?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Numpy-6055af?style=flat-square&logo=python&logoColor=white"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white"/>
     </td>
   </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://images.squarespace-cdn.com/content/v1/624f533702b64e5c9c78e131/1678942955789-QY2AY83IJ497E181JUDZ/AI-900+Badge.png" width="100px">
+</p>
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RicardoRobledo&theme=react-dark&hide_border=true" width="90%"/>
+</div>
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=RicardoRobledo&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%">
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=RicardoRobledo&theme=radical" alt="GitHub Streak" width="100%">
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <i>"The sky's the limit" - Jason Brownlee</i>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoRobledo&layout=compact&theme=radical&hide=html,css" width="400">
+</p>
+
+---
+
+<br>
+
+<p align="center">
+  <i>"The sky's the limit" - Jason Brownlee</i> 
 </p>
