@@ -50,7 +50,7 @@
     <td align="center">🎸 Playing Guitar</td>
     <td align="center">
       <img src="https://i.scdn.co/image/ab67616d0000b2734dd1e647d529501a2a06e543" height="80px" width="80px">
-      <br><b>The Smiths</b>
+      <br><b>Mikel Erentxun</b>
     </td>
   </tr>
 </table>
