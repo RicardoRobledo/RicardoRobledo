@@ -1,50 +1,62 @@
-<h1 align="center">
-    👋 Hi, I’m RicardoRobledo :smile:
-</h1>
-    
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RicardoRobledo&theme=discord&column=-1" alt="RicardoRobledo" /></a><p>
-
-<br>
+<h1 align="center">👋 Hi, I’m <span style="color:#FF69B4">RicardoRobledo</span> 😄</h1>
 
 <p align="center">
-<image src="https://skillicons.dev/icons?i=python,django,fastapi,sklearn,opencv,tensorflow,pytorch,anaconda,docker,azure&perline=16&theme=dark" width="600px" height="100px">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=RicardoRobledo&theme=discord&column=-1" alt="GitHub Trophy"/>
+  </a>
 </p>
 
 <p align="center">
-<image src="https://www.soysoliscarlos.com/wp-content/uploads/2023/11/image-4-1018x1024.png" width="120px" height="120px">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,sklearn,opencv,tensorflow,pytorch,anaconda,docker,azure&perline=10&theme=dark" width="600px">
 </p>
 
-<br>
-    
+<p align="center">
+  <img src="https://images.squarespace-cdn.com/content/v1/624f533702b64e5c9c78e131/1678942955789-QY2AY83IJ497E181JUDZ/AI-900+Badge.png" width="100px">
+</p>
 
-## My status
-    
-| <img src="https://github-readme-stats.vercel.app/api?username=RicardoRobledo&show_icons=true&theme=radical" width="450"> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RicardoRobledo&show_icons=true&theme=radical" alt="RicardoRobledo" width="450"/> |
-| ------------- | ------------- |
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoRobledo&show_icons=true&theme=radical&layout=compact"></p>
+---
 
-    
-<br>
+## 🔍 My Status
 
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=RicardoRobledo&show_icons=true&theme=radical" width="100%">
+</td>
+<td>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RicardoRobledo&theme=radical" width="100%">
+</td>
+</tr>
+</table>
 
-## About me
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoRobledo&layout=compact&theme=radical" width="400">
+</p>
+
+---
+
+## 📘 About Me
 
 <table>
   <tr>
-    <th align="center">I’m interested in</th>
-    <th align="center">I’m currently learning</th>
+    <th align="center">Interests</th>
+    <th align="center">Currently Learning</th>
     <th align="center">Hobbies</th>
-    <th align="center">Favorite band</th>
+    <th align="center">Favorite Band</th>
   </tr>
   <tr>
-    <td align="center">Learning about generative AI like chatbots development and automations with AI, Computer Vision and Cibersecurity</td>
-    <td align="center">ML, DL, Computer Vision and Generative AI<br><br></td>
-    <td align="center"><h1>🎸</h1></td>
-    <td align="center"><image src="https://i.scdn.co/image/ab67616d0000b2734dd1e647d529501a2a06e543" height="100px" width="110px"></td>
+    <td align="center">ML, DL, Computer Vision, Generative AI, Chatbots, Automation and Data Science</td>
+    <td align="center">Machine Learning, Deep Learning, Computer Vision, Generative AI and Data Science</td>
+    <td align="center">🎸 Playing Guitar</td>
+    <td align="center">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734dd1e647d529501a2a06e543" height="80px" width="80px">
+      <br><b>The Smiths</b>
+    </td>
   </tr>
 </table>
 
-<!---
-RicardoRobledo/RicardoRobledo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+<p align="center">
+  <i>"The sky's the limit" - Jason Brownlee</i>
+</p>
