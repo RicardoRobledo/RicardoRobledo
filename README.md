@@ -29,10 +29,10 @@ class RicardoRobledo:
         self.name = "Ricardo Robledo"
         self.role = "AI Engineer"
         self.interests = ["Machine Learning", "Deep Learning", "Computer Vision", 
-                          "Generative AI", "Chatbots", "Automation", "Data Science"]
+                          "Generative AI", "Chatbots", "Automation", "Data Science", "Cibersecurity"]
         self.currently_learning = ["Calculus", "Data Science"]
         self.hobbies = ["Coding 💻", "Reading 📚", "Learn German 🇩🇪", "Playing Guitar 🎸", "Drawing ✏️", "Writing ✍️"]
-        self.favorite_bands = "Mikel Erentxun and The Smiths"
+        self.favorite_bands = "Mikel Erentxun, The Smiths and The Sundays"
         
     def say_hi(self):
         print("Thanks for visiting my GitHub! Let's build something amazing together!")
