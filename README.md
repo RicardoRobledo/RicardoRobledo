@@ -1,4 +1,6 @@
-<img src="https://www.saic.com/sites/default/files/2023-08/22-0723-AI-header.jpg" alt="GitHub Trophy – Aura Theme"/>
+<p align="center">
+  <img src="https://vnclagoon.com/wp-content/uploads/2024/05/AI-Header-Artificial-Intelligence_LLM-Blogpost.jpg" height="200px" width="700px" alt="GitHub Trophy – Aura Theme"/>
+</p>
 
 <br>
 
