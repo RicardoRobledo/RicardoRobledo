@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.tp.com/media/abrhdiqa/shutterstock_1330833800-tp-gen-ai-asian-experience-header.jpg?quality=80" height="200px" width="100%" alt="GitHub Trophy – Aura Theme"/>
+  <img src="https://vnclagoon.com/wp-content/uploads/2024/05/AI-Header-Artificial-Intelligence_LLM-Blogpost.jpg" height="200px" width="100%" alt="GitHub Trophy – Aura Theme"/>
 </p>
 
 <br>
