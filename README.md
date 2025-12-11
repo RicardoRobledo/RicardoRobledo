@@ -12,7 +12,7 @@ class RicardoRobledo:
         self.name = "Ricardo Robledo"
         self.role = "AI Engineer"
         self.interests = ["Machine Learning", "Deep Learning", "Computer Vision", 
-                          "Generative AI", "Chatbots", "Automation", "Data Science", "Robotics", "Cibersecurity"]
+                          "Generative AI", "Chatbots", "Automation", "Data Science", "Edge AI", "Robotics", "Cibersecurity"]
         self.currently_learning = ["Calculus", "Data Science"]
         self.hobbies = ["Coding 💻", "Reading 📚", "Learn German 🇩🇪", "Playing Guitar 🎸", "Drawing ✏️", "Writing ✍️"]
         self.favorite_bands = "Mikel Erentxun, The Smiths and The Sundays"
