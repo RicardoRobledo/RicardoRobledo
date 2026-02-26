@@ -86,21 +86,6 @@ me.say_hi()
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RicardoRobledo&theme=react-dark&hide_border=true" width="90%"/>
 </div>
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=RicardoRobledo&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%">
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=RicardoRobledo&theme=radical" alt="GitHub Streak" width="100%">
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoRobledo&layout=compact&theme=radical&hide=html,css" width="400">
-</p>
-
 ---
 
 <br>
