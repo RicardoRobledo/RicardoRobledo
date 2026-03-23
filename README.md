@@ -10,7 +10,7 @@
 class RicardoRobledo:
     def __init__(self):
         self.name = "Ricardo Robledo"
-        self.roles = ["AI Engineer", "Cybersecurity Enthusiast"]
+        self.role = "AI Engineer | Cybersecurity Enthusiast"
         self.interests = ["Machine Learning", "Deep Learning", "Computer Vision", 
                           "Generative AI", "Chatbots", "Automation", "Data Science", "Robotics", "Cybersecurity"]
         self.currently_learning = ["DP-100", "AI-102"]
