@@ -10,9 +10,9 @@
 class RicardoRobledo:
     def __init__(self):
         self.name = "Ricardo Robledo"
-        self.role = "AI Engineer"
+        self.roles = ["AI Engineer", "Cybersecurity Enthusiast"]
         self.interests = ["Machine Learning", "Deep Learning", "Computer Vision", 
-                          "Generative AI", "Chatbots", "Automation", "Data Science", "Robotics", "Cibersecurity"]
+                          "Generative AI", "Chatbots", "Automation", "Data Science", "Robotics", "Cybersecurity"]
         self.currently_learning = ["DP-100", "AI-102"]
         self.hobbies = ["Coding 💻", "Reading 📚", "Learn German 🇩🇪", "Playing Guitar 🎸", "Drawing ✏️", "Writing ✍️"]
         self.favorite_bands = "Mikel Erentxun, The Smiths and The Sundays"
@@ -23,6 +23,15 @@ class RicardoRobledo:
 me = RicardoRobledo()
 me.say_hi()
 ```
+
+<br>
+
+## 🔹 Roles
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Engineer-1D4ED8?style=for-the-badge&logo=openai&logoColor=white" alt="AI Engineer"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-2563EB?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Cybersecurity"/>
+</p>
 
 <br>
 
@@ -83,6 +92,8 @@ me.say_hi()
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RicardoRobledo&show_icons=true&theme=transparent&title_color=2563EB&text_color=93C5FD&icon_color=1D4ED8&border_color=1D4ED8" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RicardoRobledo&theme=transparent&ring=2563EB&fire=2563EB&currStreakLabel=93C5FD&sideNums=93C5FD&currStreakNum=93C5FD&dates=93C5FD&sideLabels=93C5FD&border=1D4ED8" width="45%"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RicardoRobledo&theme=react-dark&hide_border=true" width="90%"/>
 </div>
 
