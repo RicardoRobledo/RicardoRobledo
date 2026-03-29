@@ -118,10 +118,9 @@ me.say_hi()
 <!--                   6. FOOTER + FRASE                        -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
+
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1a2e,100:0D1117&height=100&section=footer"/>
-
-<sub><i>"The sky's the limit." — Jason Brownlee</i></sub>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1a2e,100:0D1117&height=120&section=footer&text=%22The%20sky%27s%20the%20limit.%22%20%E2%80%94%20Jason%20Brownlee&fontSize=16&fontColor=8b949e&fontAlignY=65&animation=fadeIn"/>
+</div>
 
 </div>
