@@ -34,8 +34,7 @@ class RicardoRobledo:
         self.focus       = ["Machine Learning", "Deep Learning", "Computer Vision",
                             "Generative AI", "Chatbots", "Automation",
                             "Data Science", "Robotics", "Cybersecurity"]
-        self.studying    = ["DP-100 · Azure Data Scientist Associate",
-                            "AI-102 · Azure AI Engineer Associate"]
+        self.studying    = ["Azure AI-300 Machine Learning Operations (MLOps) Engineer Associate"]
         self.beyond_code = ["Coding 💻", "Reading 📚", "Learning German 🇩🇪",
                             "Playing Guitar 🎸", "Drawing ✏️", "Writing ✍️"]
         self.soundtrack  = "Mikel Erentxun · The Smiths · The Sundays"
