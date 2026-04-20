@@ -34,7 +34,7 @@ class RicardoRobledo:
         self.focus       = ["Machine Learning", "Deep Learning", "Computer Vision",
                             "Generative AI", "Chatbots", "Automation",
                             "Data Science", "Robotics", "Cybersecurity"]
-        self.studying    = ["Azure AI-300 Machine Learning Operations (MLOps) Engineer Associate", "CEH"]
+        self.studying    = ["Azure AI-300 Machine Learning Operations (MLOps) Engineer Associate"]
         self.beyond_code = ["Coding 💻", "Reading 📚", "Learning German 🇩🇪",
                             "Playing Guitar 🎸", "Drawing ✏️", "Writing ✍️"]
         self.soundtrack  = "Mikel Erentxun · The Smiths · The Sundays"
@@ -63,6 +63,13 @@ me.say_hi()
       <img src="https://images.credly.com/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" width="100px" /><br/><br/>
       <sub><b>Azure AI Fundamentals</b></sub><br/>
       <sub>AI-900 · Microsoft</sub>
+      <br/><br/>
+    </td>
+    <td align="center" width="200px">
+      <br/>
+      <img src="https://cdn.prod.website-files.com/619fc4044cc784e70e501e38/6744e1240285303c7f8879a5_Ethical_Hacking_600x400.png" width="150px" /><br/><br/>
+      <sub><b>Certified Ethical Hacker</b></sub><br/>
+      <sub>CEH · CertiProf</sub>
       <br/><br/>
     </td>
   </tr>
