@@ -60,6 +60,13 @@ me.say_hi()
   <tr>
     <td align="center" width="200px">
       <br/>
+      <img src="https://race.reva.edu.in/wp-content/uploads/AI-300.png" width="150px" /><br/><br/>
+      <sub><b>machine learning operations mlops engineer associate</b></sub><br/>
+      <sub>AI-300 · Microsoft</sub>
+      <br/><br/>
+    </td>
+    <td align="center" width="200px">
+      <br/>
       <img src="https://images.credly.com/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" width="100px" /><br/><br/>
       <sub><b>Azure AI Fundamentals</b></sub><br/>
       <sub>AI-900 · Microsoft</sub>
