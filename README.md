@@ -60,8 +60,8 @@ me.say_hi()
   <tr>
     <td align="center" width="200px">
       <br/>
-      <img src="https://race.reva.edu.in/wp-content/uploads/AI-300.png" width="150px" /><br/><br/>
-      <sub><b>machine learning operations mlops engineer associate</b></sub><br/>
+      <img src="https://race.reva.edu.in/wp-content/uploads/AI-300.png" width="100px" /><br/><br/>
+      <sub><b>Machine Learning Pperations MLOps Engineer Associate</b></sub><br/>
       <sub>AI-300 · Microsoft</sub>
       <br/><br/>
     </td>
