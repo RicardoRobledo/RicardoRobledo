@@ -61,7 +61,7 @@ me.say_hi()
     <td align="center" width="200px">
       <br/>
       <img src="https://race.reva.edu.in/wp-content/uploads/AI-300.png" width="130px" /><br/><br/>
-      <sub><b>Machine Learning Pperations MLOps Engineer Associate</b></sub><br/>
+      <sub><b>Machine Learning Operations MLOps Engineer Associate</b></sub><br/>
       <sub>AI-300 · Microsoft</sub>
       <br/><br/>
     </td>
