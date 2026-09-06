@@ -32,9 +32,9 @@ class RicardoRobledo:
         self.name        = "Ricardo Robledo"
         self.role        = ["AI Engineer", "Cybersecurity Enthusiast"]
         self.focus       = ["Machine Learning", "Deep Learning", "Computer Vision",
-                            "Generative AI", "Chatbots", "Automation",
+                            "Generative AI", "Chatbots", "Agents", "Automation",
                             "Data Science", "Robotics", "Cybersecurity"]
-        self.studying    = ["Azure AI-300 Machine Learning Operations (MLOps) Engineer Associate"]
+        self.studying    = ["Building LLMs and Reasoning LLMs", "TryHackMe AI Security 1"]
         self.beyond_code = ["Coding 💻", "Reading 📚", "Learning German 🇩🇪",
                             "Playing Guitar 🎸", "Drawing ✏️", "Writing ✍️"]
         self.soundtrack  = "Mikel Erentxun · The Smiths · The Sundays"
